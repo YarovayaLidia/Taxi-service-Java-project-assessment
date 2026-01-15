@@ -1,2 +1,2 @@
-# Taxi-service-Java-project-assessment
-The project involves creating a simple, mobile-friendly website for a privately licensed taxi owner to accept online bookings. It will include a booking form, fare information, service details, and instant email or SMS notifications to help manage customer requests efficiently.
+# Taxi-service
+A simple and reliable taxi booking website that allows passengers to schedule rides in advance, view transparent fare estimates, customize their trip, and contact the driver instantly via WhatsApp for quick confirmation and personalized service..
