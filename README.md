@@ -1,6 +1,5 @@
 # Taxi-service
 A simple and reliable taxi booking app that allows users to get a quote viewing transparent fare estimates,  book in advance, customize their trip, and contact the driver instantly via WhatsApp for quick confirmation and personalized service.
-This project was used to create website https://www.gpa-travel.it 
 
 # User Experience
 1. Intuitive Fare Calculation 
@@ -50,3 +49,7 @@ ChatGPT (Logic & Planning) and GitHub Copilot (Coding & Debugging).
 
 Reflection:  While it accelerated the development of repetitive tasks, I had to manually review all code to ensure it met project-specific requirements and WCAG accessibility standards. This process allowed me to focus more on the user experience and the logic.
 AI Usage: Leveraged AI tools (like ChatGPT/GitHub Copilot) for logic debugging, UX optimization suggestions, and generating boilerplate code.
+# Conclusion
+This project was used to create website https://www.gpa-travel.it (work still in progress)
+<img width="1500" height="auto" alt="GPA TAXI copy" src="https://github.com/user-attachments/assets/14775e9d-e6d9-46e1-9537-88e313011b7e" />
+
