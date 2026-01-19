@@ -51,5 +51,5 @@ Reflection:  While it accelerated the development of repetitive tasks, I had to 
 AI Usage: Leveraged AI tools (like ChatGPT/GitHub Copilot) for logic debugging, UX optimization suggestions, and generating boilerplate code.
 # Conclusion
 This project was used to create website https://www.gpa-travel.it (work still in progress)
-<img width="1500" height="auto" alt="GPA TAXI copy" src="https://github.com/user-attachments/assets/14775e9d-e6d9-46e1-9537-88e313011b7e" />
+![taxi Olbia, transfert Sardegna, airport Olbia, taxi Sardinia copy](https://github.com/user-attachments/assets/8969f5e2-99e8-4f01-90de-60f7d81ca04f)
 
